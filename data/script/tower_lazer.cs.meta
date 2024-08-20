@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>f0cbf89e591d80827b1ccaa9c79ecadf8b35ef5a</guid>
+	<type>component</type>
+	<hash>36407e12</hash>
+	<runtimes>
+		<runtime id="f0cbf89e591d80827b1ccaa9c79ecadf8b35ef5a" name="tower_lazer.cs" link="0"/>
+		<runtime id="3ec45a1f1a29b4adcbb6ec03cf38cbb7087b1ca1" name="tower.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

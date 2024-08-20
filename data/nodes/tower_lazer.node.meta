@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>4e7424ade2045b350edcf171a97f66c9c46407ff</guid>
+	<type>node</type>
+	<hash>4da1e7cf</hash>
+	<runtimes>
+		<runtime id="4e7424ade2045b350edcf171a97f66c9c46407ff" name="tower_lazer.node" link="0" type="3"/>
+	</runtimes>
+</asset>

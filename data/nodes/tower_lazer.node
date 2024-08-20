@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="114924477" name="group">
+		<properties>
+			<property parent="3ec45a1f1a29b4adcbb6ec03cf38cbb7087b1ca1" guid="4e1094c658cfe12e44847eff4f04fe2a6c1239fb">
+				<parameter name="rotate_node">1371659380</parameter>
+				<parameter name="muzzle">1846319195</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="935314521" name="Box">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://e24a223449c6bda4f53fef40171b5ab88e50251a</mesh_name>
+			<surface name="box" intersection="1" material="f965ec33dc4da5ecc66c4b57bba01cafae182f75"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1753685812" name="Cylinder_1">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://73466e93f2d5675988bc93b76a684def28352cd5</mesh_name>
+				<surface name="cylinder" intersection="1" material="4ce97ece9b0d032c9fee763a3bcd1f1d2e165664"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0.131900951404 1.0</transform>
+				<node type="ObjectMeshStatic" id="1371659380" name="Box_1">
+					<streaming_mode_vram>0</streaming_mode_vram>
+					<streaming_mode_ram>0</streaming_mode_ram>
+					<mesh_name>guid://c9a25ce2cfc4c895aaa11b0ede4d218827660558</mesh_name>
+					<surface name="box" intersection="1" material="70a438c95be546d497126b4dc5e80df69c3195fb"/>
+					<transform>1 0 0 0.0 0 0.999999940395 0 0.0 0 0 0.999999940395 0.0 0 0 0.129415342932 1.0</transform>
+					<node type="NodeDummy" id="1846319195" name="NodeDummy">
+						<transform>1 0 0 0.0 0 0.999999940395 0 0.0 0 0 0.999999940395 0.0 0 0.144142017043 0 1.0</transform>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</nodes>

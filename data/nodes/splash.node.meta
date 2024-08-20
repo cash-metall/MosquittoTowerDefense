@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>9e672d9619615ab29da1c882d5ba0ac32c4a03ec</guid>
+	<type>node</type>
+	<hash>e3e06724</hash>
+	<runtimes>
+		<runtime id="9e672d9619615ab29da1c882d5ba0ac32c4a03ec" name="splash.node" link="0" type="3"/>
+	</runtimes>
+</asset>

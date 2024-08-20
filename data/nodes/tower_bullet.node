@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="1271377336" name="tower_bullet">
+		<properties>
+			<property parent="ee7abc98c9ee74fbb4152b64ffb3e25dc0b968d1" guid="4c6740b2a781b2f27da2db6d9b57b108fa7543ae">
+				<parameter name="rotate_node">189154049</parameter>
+				<parameter name="muzzle">1489748076</parameter>
+				<parameter name="bullet_type">guid://01fbf79e4cbf7b2a5ea9020a657b79f83b8d92b4</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="465704375" name="Box">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://e24a223449c6bda4f53fef40171b5ab88e50251a</mesh_name>
+			<surface name="box" intersection="1" material="f965ec33dc4da5ecc66c4b57bba01cafae182f75"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="416282538" name="Cylinder_1">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://73466e93f2d5675988bc93b76a684def28352cd5</mesh_name>
+				<surface name="cylinder" intersection="1" material="4ce97ece9b0d032c9fee763a3bcd1f1d2e165664"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0.131900951404 1.0</transform>
+				<node type="ObjectMeshStatic" id="189154049" name="Box_1">
+					<streaming_mode_vram>0</streaming_mode_vram>
+					<streaming_mode_ram>0</streaming_mode_ram>
+					<mesh_name>guid://c9a25ce2cfc4c895aaa11b0ede4d218827660558</mesh_name>
+					<surface name="box" intersection="1" material="70a438c95be546d497126b4dc5e80df69c3195fb"/>
+					<transform>1 0 0 0.0 0 0.999999940395 0 0.0 0 0 0.999999940395 0.0 0 0 0.129415342932 1.0</transform>
+					<node type="NodeDummy" id="1489748076" name="muzzle">
+						<transform>1 0 0 0.0 0 0.999999940395 0 0.0 0 0 0.999999940395 0.0 0 0.144142017043 0 1.0</transform>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</nodes>

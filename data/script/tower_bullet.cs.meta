@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>1f952f0294b79f8181273deb1764117f8b5e3027</guid>
+	<type>component</type>
+	<hash>f3ea65a3</hash>
+	<runtimes>
+		<runtime id="1f952f0294b79f8181273deb1764117f8b5e3027" name="tower_bullet.cs" link="0"/>
+		<runtime id="ee7abc98c9ee74fbb4152b64ffb3e25dc0b968d1" name="tower_bullet.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

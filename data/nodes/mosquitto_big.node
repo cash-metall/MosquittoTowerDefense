@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="576678941" name="mosquitto_big">
+		<properties>
+			<property parent="c5f6f4ec4d2e7a1283220678a6aa9c6448cff312" guid="4e279da92c796246abe93e2dbda7aa73d1eac1db">
+				<parameter name="health_bar">126531539</parameter>
+				<parameter name="rot_speed">60</parameter>
+				<parameter name="damage">300</parameter>
+				<parameter name="max_health">500</parameter>
+			</property>
+		</properties>
+		<transform>0.258819431067 0.965925514698 0 0.0 -0.965925514698 0.258819431067 0 0.0 0 0 0.999999940395 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="254803672" name="visual">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://dc3c7aa51b404bdc2bc92ee90cb1ce72f983c5b7</mesh_name>
+			<surface name="capsule" intersection="1" material="5a643613e0b4b3a1a8b75337b213e8311a4e5055"/>
+			<transform>1.5 0 0 0.0 0 -1.78813934326e-07 1.49999988079 0.0 0 -0.999999642372 -1.19209254024e-07 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="75560023" name="visual_1">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://dc3c7aa51b404bdc2bc92ee90cb1ce72f983c5b7</mesh_name>
+			<surface name="capsule" intersection="1" material="5a643613e0b4b3a1a8b75337b213e8311a4e5055"/>
+			<transform>0.0999999791384 0 0 0.0 0 -1.192092558e-08 0.0999999642372 0.0 0 -0.199999958277 -2.38418547127e-08 0.0 0 0.279344004708 3.33004044339e-08 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="886375882" name="Box">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://5b7538e598f02686944b91290ed71a08d98a55f7</mesh_name>
+			<surface name="box" intersection="1" material="5a643613e0b4b3a1a8b75337b213e8311a4e5055"/>
+			<transform>0.999999754278 -4.13371553654e-09 0 0.0 -1.33599887264e-08 0.999999934713 0 0.0 0 0 0.999999880791 0.0 0 0 0.127342503345 1.0</transform>
+		</node>
+		<node id="126531539" type="ObjectBillboards" name="ObjectBillboards_1">
+			<billboards num_billboards="1">0 0 0 1 1 0 0 0.5 0.100000001 0</billboards>
+			<surface name="billboards" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" bake_to_gi="0" cast_env_probe_shadow="0" shadow_mask="0x0" material="3ab1473fd1db70ef94e38b23a197f86875573ae1"/>
+			<data>
+				<unigine_editor>
+					<body>
+						<generator>
+							<count>16</count>
+							<atlas_width>1</atlas_width>
+							<atlas_height>1</atlas_height>
+							<radius_mean>1</radius_mean>
+							<radius_spread>0</radius_spread>
+							<aspect_mean>1</aspect_mean>
+							<aspect_spread>0</aspect_spread>
+							<angle_mean>0</angle_mean>
+							<angle_spread>0</angle_spread>
+							<mesh/>
+						</generator>
+					</body>
+				</unigine_editor>
+			</data>
+			<transform>0.00100000025991 1.5810517484e-10 0 0.0 -1.5810517484e-10 0.00100000025991 0 0.0 0 0 0.0010000001071 0.0 0 0 0.28114073742 1.0</transform>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>4f697d35bc02bcee7bb2ca7930ab7be26608c4c7</guid>
+	<type>component</type>
+	<hash>7d19bacd</hash>
+	<runtimes>
+		<runtime id="4f697d35bc02bcee7bb2ca7930ab7be26608c4c7" name="spawner.cs" link="0"/>
+		<runtime id="5dc48f0b3fd1b214bd08c3af1c9b35a7aebe0f0d" name="spawner.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

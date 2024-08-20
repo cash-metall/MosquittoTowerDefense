@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>06b954687eb2c07c3a17e634626d81d1054c182e</guid>
+	<type>component</type>
+	<hash>f23b95be</hash>
+	<runtimes>
+		<runtime id="06b954687eb2c07c3a17e634626d81d1054c182e" name="splash.cs" link="0"/>
+		<runtime id="22f31dc6936f34ad57d115b242af1fbed8fab89d" name="splash.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

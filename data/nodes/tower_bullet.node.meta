@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>19b20b2845b211a5c33ab0f4eeb7d0e515c640ee</guid>
+	<type>node</type>
+	<hash>997e0a4a</hash>
+	<runtimes>
+		<runtime id="19b20b2845b211a5c33ab0f4eeb7d0e515c640ee" name="tower_bullet.node" link="0" type="3"/>
+	</runtimes>
+</asset>

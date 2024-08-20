@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>467b8f52b30b848680e6067edcf2481000964a48</guid>
+	<type>node</type>
+	<hash>4194aa72</hash>
+	<runtimes>
+		<runtime id="467b8f52b30b848680e6067edcf2481000964a48" name="bullet_slow.node" link="0" type="3"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.18.0.1" guid="3ab1473fd1db70ef94e38b23a197f86875573ae1" base_material="ee4cbd68892b61a53e7ded930b825d0f53ac250e">
+	<options shadow_mask="-1" cast_world_shadow="0"/>
+	<state name="emission">1</state>
+	<parameter name="diffuse_color" expression="0">1 0 0.0156862754 1</parameter>
+	<parameter name="emission_color" expression="0">1 0 0.0156862754 1</parameter>
+</material>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>51d6d3feb05e622f9e12d86ade33b0c7dde21814</guid>
+	<type>component</type>
+	<hash>16e8c42a</hash>
+	<runtimes>
+		<runtime id="51d6d3feb05e622f9e12d86ade33b0c7dde21814" name="mosquitto.cs" link="0"/>
+		<runtime id="c5f6f4ec4d2e7a1283220678a6aa9c6448cff312" name="mosquitto.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

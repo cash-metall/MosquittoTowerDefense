@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>01fbf79e4cbf7b2a5ea9020a657b79f83b8d92b4</guid>
+	<type>node</type>
+	<hash>8460963b</hash>
+	<runtimes>
+		<runtime id="01fbf79e4cbf7b2a5ea9020a657b79f83b8d92b4" name="bullet.node" link="0" type="3"/>
+	</runtimes>
+</asset>

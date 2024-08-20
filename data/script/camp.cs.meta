@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>1cc4d4e706022a154963cb4b7c06916f7af7bbc9</guid>
+	<type>component</type>
+	<hash>302ac918</hash>
+	<runtimes>
+		<runtime id="1cc4d4e706022a154963cb4b7c06916f7af7bbc9" name="camp.cs" link="0"/>
+		<runtime id="00b7dfed21f13c825fcd20b169592d69b960bd3f" name="camp.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

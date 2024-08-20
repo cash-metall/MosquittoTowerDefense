@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>aa964dfc3a3168f8c1b3ee88df176ca0b17ec9a2</guid>
+	<type>node</type>
+	<hash>102d1b87</hash>
+	<runtimes>
+		<runtime id="aa964dfc3a3168f8c1b3ee88df176ca0b17ec9a2" name="tower_bullet_slow.node" link="0" type="3"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="1577504797" name="bullet_slow">
+		<properties>
+			<property parent="e44c97c7e488c3d58346dc2b5b3e830fa189eda8" guid="1c9af12689db34991cffd2df10c0106518f407db">
+				<parameter name="damage">40</parameter>
+				<parameter name="splash">guid://9e672d9619615ab29da1c882d5ba0ac32c4a03ec</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="210244312" name="Capsule">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://7f117a196c09592d7735719d2fbefa659bcc61cb</mesh_name>
+			<surface name="capsule" intersection="1" material="a4776aa35c8bc8bd279840c7dbd5444895315565"/>
+			<transform>0.199999958277 0 0 0.0 0 1.19209246918e-08 -0.199999913573 0.0 0 0.199999898672 1.19209238036e-08 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>1d10aaf7a1ee62892f8df25bd0a7504b30fe8659</guid>
+	<type>node</type>
+	<hash>0f15a4eb</hash>
+	<runtimes>
+		<runtime id="1d10aaf7a1ee62892f8df25bd0a7504b30fe8659" name="mosquitto_small.node" link="0" type="3"/>
+	</runtimes>
+</asset>
